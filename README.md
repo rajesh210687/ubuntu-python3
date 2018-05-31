@@ -1,7 +1,9 @@
-README
-  Ubuntu, python3, pip
+*** About ***
 
-CMD
-  docker build -t ubuntu-python3:1.0 .
+This repo contains a ubuntu image with python and python-pip installed.
 
-  docker run -it ubuntu-python3:1.0 /bin/bash
+*** CMD ***
+
+* docker build -t ubuntu-python3:1.0 .
+
+* docker run -it ubuntu-python3:1.0 /bin/bash
