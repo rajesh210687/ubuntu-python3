@@ -1,8 +1,8 @@
-*** About ***
+### About
 
 This repo contains a ubuntu image with python and python-pip installed.
 
-*** CMD ***
+### CMD
 
 * docker build -t ubuntu-python3:1.0 .
 
